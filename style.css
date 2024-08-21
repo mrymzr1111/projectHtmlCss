@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    font-size: 16px;
+  
+}
+.main-continer{
+    width: 100%;
+    max-width: 860px !important;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+.search-bar{
+font-size: 15px;
+font-family:Arial, Helvetica, sans-serif ;
+}
